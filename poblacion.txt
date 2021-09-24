@@ -1,0 +1,64 @@
+Aguascalientes-Masculino-640,091
+Aguascalientes-Femenino-672,453
+Baja California-Masculino-1'650,341
+Baja California-Femenino-1'665,425
+Baja California Sur-Masculino-359,137
+Baja California Sur-Femenino-352,892
+Campeche-Masculino-441,276
+Campeche-Femenino-458,655
+Coahuila de Zaragoza-Masculino-1'462,612
+Coahuila de Zaragoza-Femenino-1'492,303
+Colima-Masculino-350,791
+Colima-Femenino-360,444
+Chiapas-Masculino-2'536,721
+Chiapas-Femenino-2'681,187
+Chihuaha-Masculino-1'752,275
+Chihuahua-Femenino-1'804,299
+Ciudad de Mexico-Masculino-4'231,650
+Ciudad de Mexico-Femenino-4'687,003
+Durango-Masculino-860,382
+Durango-Femenino-894,372
+Guanajuato-Masculino-2'826,369
+Guanajuato-Femenino-3'027,308
+Guerrero-Masculino-1'699,059
+Guerrero-Femenino-1'834,192
+Hidalgo-Masculino-1'369,025
+Hidalgo-Femenino-1'489,334
+Jalisco-Masculino-3'835,069
+Jalisco-Femenino-4'009,761
+Mexico-Masculino-7'834,068
+Mexico-Femenino-8'353,540
+Michoacan de Ocampo-Masculino-2'209,747
+Michoacan de Ocampo-Femenino-2'374,724
+Morelos-Masculino-914,906
+Morelos-Femenino-988,905
+Nayarit-Masculino-586,000
+Nayarit-Femenino-595,050
+Nuevo Leon-Masculino-2'541,857
+Nuevo Leon-Femenino-2'577,647
+Oaxaca-Masculino-1'888,678
+Oaxaca-Femenino-2'079,211
+Puebla-Masculino-2'943,677
+Puebla-Femenino-3'255,206
+Queretaro-Masculino-993,436
+Queretaro-Femenino-1'044,936
+Quintana Roo-Masculino-751,538
+Quintana Roo-Femenino-750,024
+San Luis Potosi-Masculino-1'317,525
+San Luis Potosi-Femenino-1'400,295
+Sinaloa-Masculino-1'464,085
+Sinaloa-Femenino-1'502,236
+Sonora-Masculino-1'410,419
+Sonora-Femenino-1'439,911
+Tabasco-Masculino-1'171,592
+Tabasco-Femenino-1'233,680
+Tamaulipas-Masculino-1'692,186
+Tamaulipas-Femenino-1'749,512
+Tlaxcala-Masculino-614,565
+Tlaxcala-Femenino-658,282
+Veracruz de Ignacio de la Llave-Masculino-3'909,140
+Veracruz de Ignacio de la Llave-Femenino-4'203,365
+Yucatan-Masculino-1'027,548
+Yucatan-Femenino-1'069,627
+Zacatecas-Masculino-770,368
+Zacatecas-Femenino-808,841
